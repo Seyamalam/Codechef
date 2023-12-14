@@ -8,9 +8,7 @@ void print_root(int n)
 
 int main()
 {
-    // number of test cases
     int t, n;
-    // Read number of test cases
     cin >> t;
     for (int i = 0; i < t; i++)
     {

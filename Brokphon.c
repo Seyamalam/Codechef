@@ -1,10 +1,5 @@
 // https://www.codechef.com/problems/BROKPHON
 #include <stdio.h>
-/* 7 1 1 1 3 3 3 2
- */
-// Got accepted in the first time.
-// No Explaination used.
-// By Mohd Azeem
 int main()
 {
     int t;

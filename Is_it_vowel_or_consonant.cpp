@@ -1,5 +1,4 @@
 // https://www.codechef.com/problems/VOWELTB
-// https://www.codechef.com/problems/VOWELTB
 
 #include <iostream>
 using namespace std;
